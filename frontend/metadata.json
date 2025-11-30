@@ -1,0 +1,5 @@
+{
+  "name": "Pastel 3D Wordle Live",
+  "description": "A responsive, interactive Wordle game integrated with TikTok Live. Viewers guess words via comments in real-time. Powered by Gemini and React.",
+  "requestFramePermissions": []
+}

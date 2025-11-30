@@ -1,0 +1,12 @@
+{
+  "name": "tiktok-bridge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "tiktok-live-connector": "^2.1.0",
+    "ws": "^8.0.0"
+  }
+}
